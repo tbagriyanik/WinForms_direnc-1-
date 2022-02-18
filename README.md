@@ -1,0 +1,2 @@
+# direnc
+ C# Resistor Calculator
